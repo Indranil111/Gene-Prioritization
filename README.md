@@ -21,7 +21,7 @@ Note: all of the correlation methods mentioned above use the Pearson or t-test c
 * * * 
 ###1. Clone the Gene_Prioritization_Pipeline Repo
 ```
- git clone https://github.com/KnowEnG-Research/Gene_Prioritization_Pipeline.git
+ git clone https://github.com/KnowEnG/Gene_Prioritization_Pipeline.git
 ```
  
 ###2. Install the following (Ubuntu or Linux)
