@@ -3,7 +3,7 @@ This is the Knowledge Engine for Genomics (KnowEnG), an NIH, BD2K Center of Exce
 
 This pipeline **ranks** the rows of a given spreadsheet, where spreadsheet's rows correspond to gene-labels and columns correspond to sample-labels. The ranking is based on correlating gene expression data (network smoothed) against pheno-type data.
 
-There are four prioritization methods, using either pearson or t-test correlation measure:
+There are four prioritization methods, using either pearson or t-test as the measure of correlation:
 
 
 | **Options**                                        | **Method**                           | **Parameters**            |
